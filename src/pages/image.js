@@ -3,7 +3,7 @@ function images(){
     return(
         <Fragment>
           <div>
-            <img src='images/R.png'/>
+            <img src='images/R.png'/ alt="">
           </div>
         </Fragment>
     );
